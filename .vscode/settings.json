@@ -1,0 +1,12 @@
+{
+    "editor.fontSize": 20,
+
+    "editor.mouseWheelZoom": true,
+    "window.zoomLevel": 0,
+    "files.autoGuessEncoding": true,
+
+    "terminal.integrated.shellArgs.windows": ["/K chcp 65001 >nul"],
+    "terminal.integrated.fontFamily": "Lucida Console",
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.encoding": "gb2312",
+}
